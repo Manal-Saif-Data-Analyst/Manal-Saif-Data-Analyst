@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manal-Saif-Data-Analyst
 - 👀 I’m interested in books and data!
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently pursuing a degree in Business Analysis & AI
 - 💞️ I’m looking to collaborate on networking
 - 📫 How to reach me: LinkdIn: www.linkedin.com/in/manal-saif-2bb234292
 - 😄 Pronouns: She/Her
