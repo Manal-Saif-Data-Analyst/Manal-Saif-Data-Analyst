@@ -5,7 +5,7 @@
 - 👀 I enjoy reading and transforming data into interesting and informative displays.
 - 🌱 I’m currently pursuing a degree in Business Analysis & AI
 - 💞️ I’m looking to collaborate on networking
-- 📫 How to reach me: LinkedIn: www.linkedin.com/in/manal-saif-2bb234292
+- 📫 How to reach me: LinkedIn: www.linkedin.com/in/manal-saif-2bb234292 OR Kaggle: https://www.kaggle.com/manalsaif
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was homeschooled most of my life!
 
