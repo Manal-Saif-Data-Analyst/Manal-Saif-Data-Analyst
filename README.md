@@ -2,6 +2,7 @@
 <img src="https://github.com/user-attachments/assets/7b4974eb-79b7-4bd1-8f89-da032344b89d" width="200" height="400" />
 
 
+
 - 👋 Hi, my name is Manal Saif!
 - 👀 I enjoy reading and transforming data into interesting and informative displays.
 - 🌱 I’m currently pursuing a degree in Business Analysis & AI
